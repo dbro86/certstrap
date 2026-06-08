@@ -17,3 +17,5 @@ require (
 	golang.org/x/sys v0.33.0 // indirect
 	golang.org/x/term v0.32.0 // indirect
 )
+
+replace github.com/square/certstrap => github.com/dbro86/certstrap v1.3.1-0.20260203222631-258f48017e5f
